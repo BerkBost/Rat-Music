@@ -16,4 +16,3 @@ System hide the playlist of each user and show it when they enter the system aga
 
  ![alt text](https://github.com/BerkBost/Rat-Music/blob/main/jukeBoxApplication/AppSs/LoginScreen.png)
  ![alt text](https://github.com/BerkBost/Rat-Music/blob/main/jukeBoxApplication/AppSs/MainScreen.png)
- ![alt text](https://github.com/BerkBost/Rat-Music/blob/main/jukeBoxApplication/AppSs/Add.png)
